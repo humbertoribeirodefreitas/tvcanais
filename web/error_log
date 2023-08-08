@@ -1,0 +1,24 @@
+[17-Mar-2021 20:25:00 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/jowixl61/public_html/web/includes/sideNav.php on line 10
+[17-Mar-2021 20:25:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/jowixl61/public_html/web/includes/sideNav.php on line 13
+[17-Mar-2021 20:25:29 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/jowixl61/public_html/web/includes/sideNav.php on line 10
+[17-Mar-2021 20:25:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/jowixl61/public_html/web/includes/sideNav.php on line 13
+[22-Mar-2021 01:31:41 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/jowixl61/public_html/web/includes/header.php on line 7
+[22-Mar-2021 01:31:41 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/jowixl61/public_html/web/configuration.php on line 2
+[22-Mar-2021 01:32:08 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/jowixl61/public_html/web/includes/header.php on line 7
+[22-Mar-2021 01:32:08 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/jowixl61/public_html/web/configuration.php on line 2
+[22-Mar-2021 01:37:25 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/jowixl61/public_html/web/includes/header.php on line 7
+[22-Mar-2021 01:37:25 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/jowixl61/public_html/web/configuration.php on line 2
+[22-Mar-2021 01:37:33 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/jowixl61/public_html/web/includes/header.php on line 7
+[22-Mar-2021 01:37:33 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/jowixl61/public_html/web/configuration.php on line 2
+[26-Mar-2021 22:55:54 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/jowixl61/public_html/web/includes/header.php on line 7
+[26-Mar-2021 22:55:54 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/jowixl61/public_html/web/configuration.php on line 2
+[26-Mar-2021 22:55:54 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/jowixl61/public_html/web/includes/header.php on line 7
+[26-Mar-2021 22:55:54 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/jowixl61/public_html/web/configuration.php on line 2
+[31-Mar-2021 22:03:47 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/jowixl61/public_html/web/includes/header.php on line 7
+[31-Mar-2021 22:03:47 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/jowixl61/public_html/web/configuration.php on line 2
+[31-Mar-2021 22:03:49 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/jowixl61/public_html/web/includes/header.php on line 7
+[31-Mar-2021 22:03:49 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/jowixl61/public_html/web/configuration.php on line 2
+[31-Mar-2021 22:08:49 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/jowixl61/public_html/web/includes/header.php on line 7
+[31-Mar-2021 22:08:49 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/jowixl61/public_html/web/configuration.php on line 2
+[31-Mar-2021 22:08:53 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/jowixl61/public_html/web/includes/header.php on line 7
+[31-Mar-2021 22:08:53 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/jowixl61/public_html/web/configuration.php on line 2

@@ -1,0 +1,766 @@
+         <div class="modal-content">
+         <div class="player_changeIssue alert alert-info" style="position: fixed; top: -300px;left: 35%;">
+            Unable to play this format in Jw player trying with aj player.
+          </div>
+          <div class="modal-header" style="border:0;"> <span class="p-close rippler rippler-default" data-dismiss="modal" aria-hidden="true">x</span> </div>
+          <div class="modal-body">
+            <div class="popup-content t-s">
+              <div class="pull-left" style="width: 10%;">
+                <div class="poster">
+                  <div class="poster-img"><img src="https://image.tmdb.org/t/p/w440_and_h660_face/vmMLPAD8BXZkKPn78s3ge7kqn5T.jpg" alt="" onerror="this.src='images/no-poster.jpg';" class="img-responsive"></div>
+                </div>
+                <div class="ts-content">
+                <div class="column seasons">
+                                      <ul>
+                                              <li class="active  rippler rippler-default"><a data-toggle="tab" href="#s-1">Season 1</a></li>
+                                                <li class="  rippler rippler-default"><a data-toggle="tab" href="#s-2">Season 2</a></li>
+                                                <li class="  rippler rippler-default"><a data-toggle="tab" href="#s-3">Season 3</a></li>
+                                            </ul> 
+                      
+                </div>
+            </div>
+              </div>
+              <div class="col-sm-9 col-md-10 col-xs-12">
+                <div class="poster-details1">
+                  <h2>Marvel - Demolidor [2015]</h2>
+                  <ul>
+                    <li><i class="fa fa-anchor"></i>Ação / Crime</li>
+                    <li><i class="fa fa-calendar"></i>2015-04-10</li>
+                    <li> <span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star-o"></span></li>
+                  </ul>
+                  
+                </div>
+              </div>
+              <!-- <div class="clearfix"></div> -->
+              <div class="ts-content">
+                
+                <div class="column episodes">
+                  <div class="tab-content">
+                                           <ul id="s-1" class="tab-pane fade in active">
+                                                      <li class="active rippler rippler-default"><a data-episid="51627"  data-toggle="tab" href="#epis-51627"><b>1 </b>Marvel - Demolidor [2015] S01 E01</a></li>
+                                                        <li class=" rippler rippler-default"><a data-episid="51629"  data-toggle="tab" href="#epis-51629"><b>2 </b>Marvel - Demolidor [2015] S01 E02</a></li>
+                                                        <li class=" rippler rippler-default"><a data-episid="51631"  data-toggle="tab" href="#epis-51631"><b>3 </b>Marvel - Demolidor [2015] S01 E03</a></li>
+                                                        <li class=" rippler rippler-default"><a data-episid="51633"  data-toggle="tab" href="#epis-51633"><b>4 </b>Marvel - Demolidor [2015] S01 E04</a></li>
+                                                        <li class=" rippler rippler-default"><a data-episid="51635"  data-toggle="tab" href="#epis-51635"><b>5 </b>Marvel - Demolidor [2015] S01 E05</a></li>
+                                                        <li class=" rippler rippler-default"><a data-episid="51638"  data-toggle="tab" href="#epis-51638"><b>6 </b>Marvel - Demolidor [2015] S01 E06</a></li>
+                                                        <li class=" rippler rippler-default"><a data-episid="51641"  data-toggle="tab" href="#epis-51641"><b>7 </b>Marvel - Demolidor [2015] S01 E07</a></li>
+                                                        <li class=" rippler rippler-default"><a data-episid="51644"  data-toggle="tab" href="#epis-51644"><b>8 </b>Marvel - Demolidor [2015] S01 E08</a></li>
+                                                        <li class=" rippler rippler-default"><a data-episid="51646"  data-toggle="tab" href="#epis-51646"><b>9 </b>Marvel - Demolidor [2015] S01 E09</a></li>
+                                                        <li class=" rippler rippler-default"><a data-episid="51649"  data-toggle="tab" href="#epis-51649"><b>10 </b>Marvel - Demolidor [2015] S01 E10</a></li>
+                                                        <li class=" rippler rippler-default"><a data-episid="51651"  data-toggle="tab" href="#epis-51651"><b>11 </b>Marvel - Demolidor [2015] S01 E11</a></li>
+                                                        <li class=" rippler rippler-default"><a data-episid="51653"  data-toggle="tab" href="#epis-51653"><b>12 </b>Marvel - Demolidor [2015] S01 E12</a></li>
+                                                        <li class=" rippler rippler-default"><a data-episid="51655"  data-toggle="tab" href="#epis-51655"><b>13 </b>Marvel - Demolidor [2015] S01 E13</a></li>
+                                                     </ul>
+                                                 <ul id="s-2" class="tab-pane fade in ">
+                                                      <li class="active rippler rippler-default"><a data-episid="51657"  data-toggle="tab" href="#epis-51657"><b>1 </b>Marvel - Demolidor [2015] S02 E01</a></li>
+                                                        <li class=" rippler rippler-default"><a data-episid="51659"  data-toggle="tab" href="#epis-51659"><b>2 </b>Marvel - Demolidor [2015] S02 E02</a></li>
+                                                        <li class=" rippler rippler-default"><a data-episid="51661"  data-toggle="tab" href="#epis-51661"><b>3 </b>Marvel - Demolidor [2015] S02 E03</a></li>
+                                                        <li class=" rippler rippler-default"><a data-episid="51663"  data-toggle="tab" href="#epis-51663"><b>4 </b>Marvel - Demolidor [2015] S02 E04</a></li>
+                                                        <li class=" rippler rippler-default"><a data-episid="51665"  data-toggle="tab" href="#epis-51665"><b>5 </b>Marvel - Demolidor [2015] S02 E05</a></li>
+                                                        <li class=" rippler rippler-default"><a data-episid="51667"  data-toggle="tab" href="#epis-51667"><b>6 </b>Marvel - Demolidor [2015] S02 E06</a></li>
+                                                        <li class=" rippler rippler-default"><a data-episid="51669"  data-toggle="tab" href="#epis-51669"><b>7 </b>Marvel - Demolidor [2015] S02 E07</a></li>
+                                                        <li class=" rippler rippler-default"><a data-episid="51673"  data-toggle="tab" href="#epis-51673"><b>8 </b>Marvel - Demolidor [2015] S02 E08</a></li>
+                                                        <li class=" rippler rippler-default"><a data-episid="51677"  data-toggle="tab" href="#epis-51677"><b>9 </b>Marvel - Demolidor [2015] S02 E09</a></li>
+                                                        <li class=" rippler rippler-default"><a data-episid="51680"  data-toggle="tab" href="#epis-51680"><b>10 </b>Marvel - Demolidor [2015] S02 E10</a></li>
+                                                        <li class=" rippler rippler-default"><a data-episid="51683"  data-toggle="tab" href="#epis-51683"><b>11 </b>Marvel - Demolidor [2015] S02 E11</a></li>
+                                                        <li class=" rippler rippler-default"><a data-episid="51686"  data-toggle="tab" href="#epis-51686"><b>12 </b>Marvel - Demolidor [2015] S02 E12</a></li>
+                                                        <li class=" rippler rippler-default"><a data-episid="51688"  data-toggle="tab" href="#epis-51688"><b>13 </b>Marvel - Demolidor [2015] S02 E13</a></li>
+                                                     </ul>
+                                                 <ul id="s-3" class="tab-pane fade in ">
+                                                      <li class="active rippler rippler-default"><a data-episid="51690"  data-toggle="tab" href="#epis-51690"><b>1 </b>Marvel - Demolidor [2015] S03 E01</a></li>
+                                                        <li class=" rippler rippler-default"><a data-episid="51692"  data-toggle="tab" href="#epis-51692"><b>2 </b>Marvel - Demolidor [2015] S03 E02</a></li>
+                                                        <li class=" rippler rippler-default"><a data-episid="51694"  data-toggle="tab" href="#epis-51694"><b>3 </b>Marvel - Demolidor [2015] S03 E03</a></li>
+                                                        <li class=" rippler rippler-default"><a data-episid="51695"  data-toggle="tab" href="#epis-51695"><b>4 </b>Marvel - Demolidor [2015] S03 E04</a></li>
+                                                        <li class=" rippler rippler-default"><a data-episid="51697"  data-toggle="tab" href="#epis-51697"><b>5 </b>Marvel - Demolidor [2015] S03 E05</a></li>
+                                                        <li class=" rippler rippler-default"><a data-episid="51699"  data-toggle="tab" href="#epis-51699"><b>6 </b>Marvel - Demolidor [2015] S03 E06</a></li>
+                                                        <li class=" rippler rippler-default"><a data-episid="51701"  data-toggle="tab" href="#epis-51701"><b>7 </b>Marvel - Demolidor [2015] S03 E07</a></li>
+                                                        <li class=" rippler rippler-default"><a data-episid="51703"  data-toggle="tab" href="#epis-51703"><b>8 </b>Marvel - Demolidor [2015] S03 E08</a></li>
+                                                        <li class=" rippler rippler-default"><a data-episid="51705"  data-toggle="tab" href="#epis-51705"><b>9 </b>Marvel - Demolidor [2015] S03 E09</a></li>
+                                                        <li class=" rippler rippler-default"><a data-episid="51707"  data-toggle="tab" href="#epis-51707"><b>10 </b>Marvel - Demolidor [2015] S03 E10</a></li>
+                                                        <li class=" rippler rippler-default"><a data-episid="51709"  data-toggle="tab" href="#epis-51709"><b>11 </b>Marvel - Demolidor [2015] S03 E11</a></li>
+                                                        <li class=" rippler rippler-default"><a data-episid="51711"  data-toggle="tab" href="#epis-51711"><b>12 </b>Marvel - Demolidor [2015] S03 E12</a></li>
+                                                        <li class=" rippler rippler-default"><a data-episid="51713"  data-toggle="tab" href="#epis-51713"><b>13 </b>Marvel - Demolidor [2015] S03 E13</a></li>
+                                                     </ul>
+                                          </div>
+                </div>
+                <div class="column w-content">
+                  <div class="tab-content">
+                    <div class="PlayerHolder" data-ajplayer="" data-flowplayer="" data-jwplayer="">
+                      <div id="player-holder" class="hideOnLoad"  style="border:solid 2px #fff; height: auto !important;"  >
+                      </div>
+                      </div>
+                                            
+                      <button id="backToInfo-51627" data-episid="51627" class="backToInfo btn btn-info hideOnLoad rippler rippler-default">Back to Info</button>
+                    <div id="epis-51627" class="tab-pane fade in active">
+                      <h2>Marvel - Demolidor [2015] S01 E01</h2>
+                            <h5>Episode 1</h5>
+                            <div class="row">
+                        <div class="col-md-3 seasonIfb1">
+                                                            <img src="http://sv1.cinetv.vip:8880/images/zFmJQzl6bFrdpHhDkxXmboyykqD_small.jpg" alt="" onerror="this.src='images/no-poster.jpg';" class="img-responsive">
+                              </div>
+                        <div class="col-md-9">
+                                <p cal>O lado vigilante de Murdock e seu trabalho como advogado são desafiados em um caso de homicídio que implica uma organização criminosa.</p>
+                              </div>
+                            </div>
+                            <div class="watch-now row rippler rippler-default">
+                              <button onclick="watchnow('51627','mkv')">watch it now</button>
+                            </div>
+                          </div>
+                                            
+                      <button id="backToInfo-51629" data-episid="51629" class="backToInfo btn btn-info hideOnLoad rippler rippler-default">Back to Info</button>
+                    <div id="epis-51629" class="tab-pane fade in ">
+                      <h2>Marvel - Demolidor [2015] S01 E02</h2>
+                            <h5>Episode 2</h5>
+                            <div class="row">
+                        <div class="col-md-3 seasonIfb1">
+                                                            <img src="http://sv1.cinetv.vip:8880/images/zFmJQzl6bFrdpHhDkxXmboyykqD_small.jpg" alt="" onerror="this.src='images/no-poster.jpg';" class="img-responsive">
+                              </div>
+                        <div class="col-md-9">
+                                <p cal>Murdock comete um erro quase fatal ao tentar resgatar um garoto sequestrado. Surge um aliado inusitado.</p>
+                              </div>
+                            </div>
+                            <div class="watch-now row rippler rippler-default">
+                              <button onclick="watchnow('51629','mkv')">watch it now</button>
+                            </div>
+                          </div>
+                                            
+                      <button id="backToInfo-51631" data-episid="51631" class="backToInfo btn btn-info hideOnLoad rippler rippler-default">Back to Info</button>
+                    <div id="epis-51631" class="tab-pane fade in ">
+                      <h2>Marvel - Demolidor [2015] S01 E03</h2>
+                            <h5>Episode 3</h5>
+                            <div class="row">
+                        <div class="col-md-3 seasonIfb1">
+                                                            <img src="http://sv1.cinetv.vip:8880/images/zFmJQzl6bFrdpHhDkxXmboyykqD_small.jpg" alt="" onerror="this.src='images/no-poster.jpg';" class="img-responsive">
+                              </div>
+                        <div class="col-md-9">
+                                <p cal>Murdock e Foggy aceitam um cliente misterioso, mas Murdock está certo de que o caso não é tão simples quanto os fatos levam a crer.</p>
+                              </div>
+                            </div>
+                            <div class="watch-now row rippler rippler-default">
+                              <button onclick="watchnow('51631','mkv')">watch it now</button>
+                            </div>
+                          </div>
+                                            
+                      <button id="backToInfo-51633" data-episid="51633" class="backToInfo btn btn-info hideOnLoad rippler rippler-default">Back to Info</button>
+                    <div id="epis-51633" class="tab-pane fade in ">
+                      <h2>Marvel - Demolidor [2015] S01 E04</h2>
+                            <h5>Episode 4</h5>
+                            <div class="row">
+                        <div class="col-md-3 seasonIfb1">
+                                                            <img src="http://sv1.cinetv.vip:8880/images/zFmJQzl6bFrdpHhDkxXmboyykqD_small.jpg" alt="" onerror="this.src='images/no-poster.jpg';" class="img-responsive">
+                              </div>
+                        <div class="col-md-9">
+                                <p cal>Dois irmãos russos a serviço de Fisk lançam um ataque contra o Demolidor. Fisk segue com seus planos para consolidar seu poder no submundo do crime.</p>
+                              </div>
+                            </div>
+                            <div class="watch-now row rippler rippler-default">
+                              <button onclick="watchnow('51633','mkv')">watch it now</button>
+                            </div>
+                          </div>
+                                            
+                      <button id="backToInfo-51635" data-episid="51635" class="backToInfo btn btn-info hideOnLoad rippler rippler-default">Back to Info</button>
+                    <div id="epis-51635" class="tab-pane fade in ">
+                      <h2>Marvel - Demolidor [2015] S01 E05</h2>
+                            <h5>Episode 5</h5>
+                            <div class="row">
+                        <div class="col-md-3 seasonIfb1">
+                                                            <img src="http://sv1.cinetv.vip:8880/images/zFmJQzl6bFrdpHhDkxXmboyykqD_small.jpg" alt="" onerror="this.src='images/no-poster.jpg';" class="img-responsive">
+                              </div>
+                        <div class="col-md-9">
+                                <p cal>Fisk segue com seu plano para destruir Hell’s Kitchen. Murdock e Foggy aceitam defender inquilinos maltratados por seu senhorio.</p>
+                              </div>
+                            </div>
+                            <div class="watch-now row rippler rippler-default">
+                              <button onclick="watchnow('51635','mkv')">watch it now</button>
+                            </div>
+                          </div>
+                                            
+                      <button id="backToInfo-51638" data-episid="51638" class="backToInfo btn btn-info hideOnLoad rippler rippler-default">Back to Info</button>
+                    <div id="epis-51638" class="tab-pane fade in ">
+                      <h2>Marvel - Demolidor [2015] S01 E06</h2>
+                            <h5>Episode 6</h5>
+                            <div class="row">
+                        <div class="col-md-3 seasonIfb1">
+                                                            <img src="http://sv1.cinetv.vip:8880/images/zFmJQzl6bFrdpHhDkxXmboyykqD_small.jpg" alt="" onerror="this.src='images/no-poster.jpg';" class="img-responsive">
+                              </div>
+                        <div class="col-md-9">
+                                <p cal>O plano de Fisk de controlar Hell’s Kitchen deixa o Demolidor em uma situação difícil. Ben Urich está cada vez mais próximo da verdade.</p>
+                              </div>
+                            </div>
+                            <div class="watch-now row rippler rippler-default">
+                              <button onclick="watchnow('51638','mkv')">watch it now</button>
+                            </div>
+                          </div>
+                                            
+                      <button id="backToInfo-51641" data-episid="51641" class="backToInfo btn btn-info hideOnLoad rippler rippler-default">Back to Info</button>
+                    <div id="epis-51641" class="tab-pane fade in ">
+                      <h2>Marvel - Demolidor [2015] S01 E07</h2>
+                            <h5>Episode 7</h5>
+                            <div class="row">
+                        <div class="col-md-3 seasonIfb1">
+                                                            <img src="http://sv1.cinetv.vip:8880/images/zFmJQzl6bFrdpHhDkxXmboyykqD_small.jpg" alt="" onerror="this.src='images/no-poster.jpg';" class="img-responsive">
+                              </div>
+                        <div class="col-md-9">
+                                <p cal>Uma figura importante do passado de Murdock pede ajuda para enfrentar um novo inimigo que ameaça Hell’s Kitchen.</p>
+                              </div>
+                            </div>
+                            <div class="watch-now row rippler rippler-default">
+                              <button onclick="watchnow('51641','mkv')">watch it now</button>
+                            </div>
+                          </div>
+                                            
+                      <button id="backToInfo-51644" data-episid="51644" class="backToInfo btn btn-info hideOnLoad rippler rippler-default">Back to Info</button>
+                    <div id="epis-51644" class="tab-pane fade in ">
+                      <h2>Marvel - Demolidor [2015] S01 E08</h2>
+                            <h5>Episode 8</h5>
+                            <div class="row">
+                        <div class="col-md-3 seasonIfb1">
+                                                            <img src="http://sv1.cinetv.vip:8880/images/zFmJQzl6bFrdpHhDkxXmboyykqD_small.jpg" alt="" onerror="this.src='images/no-poster.jpg';" class="img-responsive">
+                              </div>
+                        <div class="col-md-9">
+                                <p cal>Enquanto a missão de Murdock, Foggy e Karen se torna cada vez mais clara, Fisk começa a perder o controle sobre sua batalha por Hell’s Kitchen.</p>
+                              </div>
+                            </div>
+                            <div class="watch-now row rippler rippler-default">
+                              <button onclick="watchnow('51644','mkv')">watch it now</button>
+                            </div>
+                          </div>
+                                            
+                      <button id="backToInfo-51646" data-episid="51646" class="backToInfo btn btn-info hideOnLoad rippler rippler-default">Back to Info</button>
+                    <div id="epis-51646" class="tab-pane fade in ">
+                      <h2>Marvel - Demolidor [2015] S01 E09</h2>
+                            <h5>Episode 9</h5>
+                            <div class="row">
+                        <div class="col-md-3 seasonIfb1">
+                                                            <img src="http://sv1.cinetv.vip:8880/images/zFmJQzl6bFrdpHhDkxXmboyykqD_small.jpg" alt="" onerror="this.src='images/no-poster.jpg';" class="img-responsive">
+                              </div>
+                        <div class="col-md-9">
+                                <p cal>Agora que Fisk está levando vantagem, ficou ainda mais difícil destruí-lo. Enquanto isso, o Demolidor enfrenta seus próprios demônios.</p>
+                              </div>
+                            </div>
+                            <div class="watch-now row rippler rippler-default">
+                              <button onclick="watchnow('51646','mkv')">watch it now</button>
+                            </div>
+                          </div>
+                                            
+                      <button id="backToInfo-51649" data-episid="51649" class="backToInfo btn btn-info hideOnLoad rippler rippler-default">Back to Info</button>
+                    <div id="epis-51649" class="tab-pane fade in ">
+                      <h2>Marvel - Demolidor [2015] S01 E10</h2>
+                            <h5>Episode 10</h5>
+                            <div class="row">
+                        <div class="col-md-3 seasonIfb1">
+                                                            <img src="http://sv1.cinetv.vip:8880/images/zFmJQzl6bFrdpHhDkxXmboyykqD_small.jpg" alt="" onerror="this.src='images/no-poster.jpg';" class="img-responsive">
+                              </div>
+                        <div class="col-md-9">
+                                <p cal>A relação entre Murdock e Foggy é colocada à prova. Um novo inimigo de Fisk aparece em Hell’s Kitchen.</p>
+                              </div>
+                            </div>
+                            <div class="watch-now row rippler rippler-default">
+                              <button onclick="watchnow('51649','mkv')">watch it now</button>
+                            </div>
+                          </div>
+                                            
+                      <button id="backToInfo-51651" data-episid="51651" class="backToInfo btn btn-info hideOnLoad rippler rippler-default">Back to Info</button>
+                    <div id="epis-51651" class="tab-pane fade in ">
+                      <h2>Marvel - Demolidor [2015] S01 E11</h2>
+                            <h5>Episode 11</h5>
+                            <div class="row">
+                        <div class="col-md-3 seasonIfb1">
+                                                            <img src="http://sv1.cinetv.vip:8880/images/zFmJQzl6bFrdpHhDkxXmboyykqD_small.jpg" alt="" onerror="this.src='images/no-poster.jpg';" class="img-responsive">
+                              </div>
+                        <div class="col-md-9">
+                                <p cal>Fisk e Murdock enfrentam as consequências do caminho que escolheram. Ben e Karen chegam mais perto da verdade sobre o passado de Fisk.</p>
+                              </div>
+                            </div>
+                            <div class="watch-now row rippler rippler-default">
+                              <button onclick="watchnow('51651','mkv')">watch it now</button>
+                            </div>
+                          </div>
+                                            
+                      <button id="backToInfo-51653" data-episid="51653" class="backToInfo btn btn-info hideOnLoad rippler rippler-default">Back to Info</button>
+                    <div id="epis-51653" class="tab-pane fade in ">
+                      <h2>Marvel - Demolidor [2015] S01 E12</h2>
+                            <h5>Episode 12</h5>
+                            <div class="row">
+                        <div class="col-md-3 seasonIfb1">
+                                                            <img src="http://sv1.cinetv.vip:8880/images/zFmJQzl6bFrdpHhDkxXmboyykqD_small.jpg" alt="" onerror="this.src='images/no-poster.jpg';" class="img-responsive">
+                              </div>
+                        <div class="col-md-9">
+                                <p cal>Fisk busca vingança enquanto Karen é assombrada pelos acontecimentos. O Demolidor faz uma descoberta reveladora sobre as finanças de Fisk.</p>
+                              </div>
+                            </div>
+                            <div class="watch-now row rippler rippler-default">
+                              <button onclick="watchnow('51653','mkv')">watch it now</button>
+                            </div>
+                          </div>
+                                            
+                      <button id="backToInfo-51655" data-episid="51655" class="backToInfo btn btn-info hideOnLoad rippler rippler-default">Back to Info</button>
+                    <div id="epis-51655" class="tab-pane fade in ">
+                      <h2>Marvel - Demolidor [2015] S01 E13</h2>
+                            <h5>Episode 13</h5>
+                            <div class="row">
+                        <div class="col-md-3 seasonIfb1">
+                                                            <img src="http://sv1.cinetv.vip:8880/images/zFmJQzl6bFrdpHhDkxXmboyykqD_small.jpg" alt="" onerror="this.src='images/no-poster.jpg';" class="img-responsive">
+                              </div>
+                        <div class="col-md-9">
+                                <p cal>No episódio final da primeira temporada, Fisk, Murdock, Foggy e Karen são obrigados a dar sua cartada final.</p>
+                              </div>
+                            </div>
+                            <div class="watch-now row rippler rippler-default">
+                              <button onclick="watchnow('51655','mkv')">watch it now</button>
+                            </div>
+                          </div>
+                                            
+                      <button id="backToInfo-51657" data-episid="51657" class="backToInfo btn btn-info hideOnLoad rippler rippler-default">Back to Info</button>
+                    <div id="epis-51657" class="tab-pane fade in ">
+                      <h2>Marvel - Demolidor [2015] S02 E01</h2>
+                            <h5>Episode 1</h5>
+                            <div class="row">
+                        <div class="col-md-3 seasonIfb2">
+                                                            <img src="http://sv1.cinetv.vip:8880/images/opHoslNCxkgoCaGhfO66fvCSH83_small.jpg" alt="" onerror="this.src='images/no-poster.jpg';" class="img-responsive">
+                              </div>
+                        <div class="col-md-9">
+                                <p cal>Agora que Fisk não é mais um problema, uma nova ameaça paira sobre Hell's Kitchen. Murdock e Foggy atendem uma pessoa com um passado suspeito.</p>
+                              </div>
+                            </div>
+                            <div class="watch-now row rippler rippler-default">
+                              <button onclick="watchnow('51657','mkv')">watch it now</button>
+                            </div>
+                          </div>
+                                            
+                      <button id="backToInfo-51659" data-episid="51659" class="backToInfo btn btn-info hideOnLoad rippler rippler-default">Back to Info</button>
+                    <div id="epis-51659" class="tab-pane fade in ">
+                      <h2>Marvel - Demolidor [2015] S02 E02</h2>
+                            <h5>Episode 2</h5>
+                            <div class="row">
+                        <div class="col-md-3 seasonIfb2">
+                                                            <img src="http://sv1.cinetv.vip:8880/images/opHoslNCxkgoCaGhfO66fvCSH83_small.jpg" alt="" onerror="this.src='images/no-poster.jpg';" class="img-responsive">
+                              </div>
+                        <div class="col-md-9">
+                                <p cal>Enquanto Murdock se recupera de um ataque, Foggy e Karen tentam proteger o novo cliente da lei e do mais novo vilão de Hell's Kitchen.</p>
+                              </div>
+                            </div>
+                            <div class="watch-now row rippler rippler-default">
+                              <button onclick="watchnow('51659','mkv')">watch it now</button>
+                            </div>
+                          </div>
+                                            
+                      <button id="backToInfo-51661" data-episid="51661" class="backToInfo btn btn-info hideOnLoad rippler rippler-default">Back to Info</button>
+                    <div id="epis-51661" class="tab-pane fade in ">
+                      <h2>Marvel - Demolidor [2015] S02 E03</h2>
+                            <h5>Episode 3</h5>
+                            <div class="row">
+                        <div class="col-md-3 seasonIfb2">
+                                                            <img src="http://sv1.cinetv.vip:8880/images/opHoslNCxkgoCaGhfO66fvCSH83_small.jpg" alt="" onerror="this.src='images/no-poster.jpg';" class="img-responsive">
+                              </div>
+                        <div class="col-md-9">
+                                <p cal>Cara a cara com o Justiceiro, o Demolidor questiona a moralidade da justiça vigilante. Enquanto isso, Foggy e Karen lutam para salvar a firma.</p>
+                              </div>
+                            </div>
+                            <div class="watch-now row rippler rippler-default">
+                              <button onclick="watchnow('51661','mkv')">watch it now</button>
+                            </div>
+                          </div>
+                                            
+                      <button id="backToInfo-51663" data-episid="51663" class="backToInfo btn btn-info hideOnLoad rippler rippler-default">Back to Info</button>
+                    <div id="epis-51663" class="tab-pane fade in ">
+                      <h2>Marvel - Demolidor [2015] S02 E04</h2>
+                            <h5>Episode 4</h5>
+                            <div class="row">
+                        <div class="col-md-3 seasonIfb2">
+                                                            <img src="http://sv1.cinetv.vip:8880/images/opHoslNCxkgoCaGhfO66fvCSH83_small.jpg" alt="" onerror="this.src='images/no-poster.jpg';" class="img-responsive">
+                              </div>
+                        <div class="col-md-9">
+                                <p cal>Karen faz descobertas chocantes sobre o Justiceiro, que agora está sendo caçado por uma força poderosa em Hell's Kitchen. O Demolidor estuda seus próximos passos.</p>
+                              </div>
+                            </div>
+                            <div class="watch-now row rippler rippler-default">
+                              <button onclick="watchnow('51663','mkv')">watch it now</button>
+                            </div>
+                          </div>
+                                            
+                      <button id="backToInfo-51665" data-episid="51665" class="backToInfo btn btn-info hideOnLoad rippler rippler-default">Back to Info</button>
+                    <div id="epis-51665" class="tab-pane fade in ">
+                      <h2>Marvel - Demolidor [2015] S02 E05</h2>
+                            <h5>Episode 5</h5>
+                            <div class="row">
+                        <div class="col-md-3 seasonIfb2">
+                                                            <img src="http://sv1.cinetv.vip:8880/images/opHoslNCxkgoCaGhfO66fvCSH83_small.jpg" alt="" onerror="this.src='images/no-poster.jpg';" class="img-responsive">
+                              </div>
+                        <div class="col-md-9">
+                                <p cal>Uma antiga paixão de Murdock retorna a Hell's Kitchen e vira seu mundo de cabeça para baixo. Karen tenta descobrir a verdade sobre o Justiceiro.</p>
+                              </div>
+                            </div>
+                            <div class="watch-now row rippler rippler-default">
+                              <button onclick="watchnow('51665','mkv')">watch it now</button>
+                            </div>
+                          </div>
+                                            
+                      <button id="backToInfo-51667" data-episid="51667" class="backToInfo btn btn-info hideOnLoad rippler rippler-default">Back to Info</button>
+                    <div id="epis-51667" class="tab-pane fade in ">
+                      <h2>Marvel - Demolidor [2015] S02 E06</h2>
+                            <h5>Episode 6</h5>
+                            <div class="row">
+                        <div class="col-md-3 seasonIfb2">
+                                                            <img src="http://sv1.cinetv.vip:8880/images/opHoslNCxkgoCaGhfO66fvCSH83_small.jpg" alt="" onerror="this.src='images/no-poster.jpg';" class="img-responsive">
+                              </div>
+                        <div class="col-md-9">
+                                <p cal>Um inimigo mortal retorna com sede de vingança. Foggy e Murdock arriscam a firma em nome da justiça. Karen começa a mudar de ideia sobre o Justiceiro.</p>
+                              </div>
+                            </div>
+                            <div class="watch-now row rippler rippler-default">
+                              <button onclick="watchnow('51667','mkv')">watch it now</button>
+                            </div>
+                          </div>
+                                            
+                      <button id="backToInfo-51669" data-episid="51669" class="backToInfo btn btn-info hideOnLoad rippler rippler-default">Back to Info</button>
+                    <div id="epis-51669" class="tab-pane fade in ">
+                      <h2>Marvel - Demolidor [2015] S02 E07</h2>
+                            <h5>Episode 7</h5>
+                            <div class="row">
+                        <div class="col-md-3 seasonIfb2">
+                                                            <img src="http://sv1.cinetv.vip:8880/images/opHoslNCxkgoCaGhfO66fvCSH83_small.jpg" alt="" onerror="this.src='images/no-poster.jpg';" class="img-responsive">
+                              </div>
+                        <div class="col-md-9">
+                                <p cal>Murdock e Foggy enfrentam a promotoria no julgamento do século, mas seu cliente não coopera. As duas identidades de Murdock geram conflitos.</p>
+                              </div>
+                            </div>
+                            <div class="watch-now row rippler rippler-default">
+                              <button onclick="watchnow('51669','mkv')">watch it now</button>
+                            </div>
+                          </div>
+                                            
+                      <button id="backToInfo-51673" data-episid="51673" class="backToInfo btn btn-info hideOnLoad rippler rippler-default">Back to Info</button>
+                    <div id="epis-51673" class="tab-pane fade in ">
+                      <h2>Marvel - Demolidor [2015] S02 E08</h2>
+                            <h5>Episode 8</h5>
+                            <div class="row">
+                        <div class="col-md-3 seasonIfb2">
+                                                            <img src="http://sv1.cinetv.vip:8880/images/opHoslNCxkgoCaGhfO66fvCSH83_small.jpg" alt="" onerror="this.src='images/no-poster.jpg';" class="img-responsive">
+                              </div>
+                        <div class="col-md-9">
+                                <p cal>Com o julgamento fora de controle, uma figura do passado de Murdock ressurge com revelações chocantes sobre o futuro de Hell's Kitchen.</p>
+                              </div>
+                            </div>
+                            <div class="watch-now row rippler rippler-default">
+                              <button onclick="watchnow('51673','mkv')">watch it now</button>
+                            </div>
+                          </div>
+                                            
+                      <button id="backToInfo-51677" data-episid="51677" class="backToInfo btn btn-info hideOnLoad rippler rippler-default">Back to Info</button>
+                    <div id="epis-51677" class="tab-pane fade in ">
+                      <h2>Marvel - Demolidor [2015] S02 E09</h2>
+                            <h5>Episode 9</h5>
+                            <div class="row">
+                        <div class="col-md-3 seasonIfb2">
+                                                            <img src="http://sv1.cinetv.vip:8880/images/opHoslNCxkgoCaGhfO66fvCSH83_small.jpg" alt="" onerror="this.src='images/no-poster.jpg';" class="img-responsive">
+                              </div>
+                        <div class="col-md-9">
+                                <p cal>Castle recebe uma oferta irrecusável. Foggy e Murdock questionam o futuro da firma, mas Karen não vai desistir tão facilmente.</p>
+                              </div>
+                            </div>
+                            <div class="watch-now row rippler rippler-default">
+                              <button onclick="watchnow('51677','mkv')">watch it now</button>
+                            </div>
+                          </div>
+                                            
+                      <button id="backToInfo-51680" data-episid="51680" class="backToInfo btn btn-info hideOnLoad rippler rippler-default">Back to Info</button>
+                    <div id="epis-51680" class="tab-pane fade in ">
+                      <h2>Marvel - Demolidor [2015] S02 E10</h2>
+                            <h5>Episode 10</h5>
+                            <div class="row">
+                        <div class="col-md-3 seasonIfb2">
+                                                            <img src="http://sv1.cinetv.vip:8880/images/opHoslNCxkgoCaGhfO66fvCSH83_small.jpg" alt="" onerror="this.src='images/no-poster.jpg';" class="img-responsive">
+                              </div>
+                        <div class="col-md-9">
+                                <p cal>Murdock e Foggy são atingidos indiretamente pela vingança do Justiceiro. Karen e Murdock buscam a verdade utilizando métodos bem diferentes.</p>
+                              </div>
+                            </div>
+                            <div class="watch-now row rippler rippler-default">
+                              <button onclick="watchnow('51680','mkv')">watch it now</button>
+                            </div>
+                          </div>
+                                            
+                      <button id="backToInfo-51683" data-episid="51683" class="backToInfo btn btn-info hideOnLoad rippler rippler-default">Back to Info</button>
+                    <div id="epis-51683" class="tab-pane fade in ">
+                      <h2>Marvel - Demolidor [2015] S02 E11</h2>
+                            <h5>Episode 11</h5>
+                            <div class="row">
+                        <div class="col-md-3 seasonIfb2">
+                                                            <img src="http://sv1.cinetv.vip:8880/images/opHoslNCxkgoCaGhfO66fvCSH83_small.jpg" alt="" onerror="this.src='images/no-poster.jpg';" class="img-responsive">
+                              </div>
+                        <div class="col-md-9">
+                                <p cal>O Justiceiro prossegue com sua guerra, aumentando o número de assassinatos em Hell’s Kitchen. Murdock tenta dar um fim ao que foi iniciado pela promotora pública.</p>
+                              </div>
+                            </div>
+                            <div class="watch-now row rippler rippler-default">
+                              <button onclick="watchnow('51683','mkv')">watch it now</button>
+                            </div>
+                          </div>
+                                            
+                      <button id="backToInfo-51686" data-episid="51686" class="backToInfo btn btn-info hideOnLoad rippler rippler-default">Back to Info</button>
+                    <div id="epis-51686" class="tab-pane fade in ">
+                      <h2>Marvel - Demolidor [2015] S02 E12</h2>
+                            <h5>Episode 12</h5>
+                            <div class="row">
+                        <div class="col-md-3 seasonIfb2">
+                                                            <img src="http://sv1.cinetv.vip:8880/images/opHoslNCxkgoCaGhfO66fvCSH83_small.jpg" alt="" onerror="this.src='images/no-poster.jpg';" class="img-responsive">
+                              </div>
+                        <div class="col-md-9">
+                                <p cal>O Demolidor desce ao submundo em uma missão de resgate, Karen investiga uma pista perigosa, e a firma de advocacia Nelson &amp; Murdock pode ter chegado a seu capítulo final.</p>
+                              </div>
+                            </div>
+                            <div class="watch-now row rippler rippler-default">
+                              <button onclick="watchnow('51686','mkv')">watch it now</button>
+                            </div>
+                          </div>
+                                            
+                      <button id="backToInfo-51688" data-episid="51688" class="backToInfo btn btn-info hideOnLoad rippler rippler-default">Back to Info</button>
+                    <div id="epis-51688" class="tab-pane fade in ">
+                      <h2>Marvel - Demolidor [2015] S02 E13</h2>
+                            <h5>Episode 13</h5>
+                            <div class="row">
+                        <div class="col-md-3 seasonIfb2">
+                                                            <img src="http://sv1.cinetv.vip:8880/images/opHoslNCxkgoCaGhfO66fvCSH83_small.jpg" alt="" onerror="this.src='images/no-poster.jpg';" class="img-responsive">
+                              </div>
+                        <div class="col-md-9">
+                                <p cal>No último capítulo da segunda temporada, o Demolidor embarca em um duelo por sua vida - e pelo futuro de Hell's Kitchen.</p>
+                              </div>
+                            </div>
+                            <div class="watch-now row rippler rippler-default">
+                              <button onclick="watchnow('51688','mkv')">watch it now</button>
+                            </div>
+                          </div>
+                                            
+                      <button id="backToInfo-51690" data-episid="51690" class="backToInfo btn btn-info hideOnLoad rippler rippler-default">Back to Info</button>
+                    <div id="epis-51690" class="tab-pane fade in ">
+                      <h2>Marvel - Demolidor [2015] S03 E01</h2>
+                            <h5>Episode 1</h5>
+                            <div class="row">
+                        <div class="col-md-3 seasonIfb3">
+                                                            <img src="http://sv1.cinetv.vip:8880/images/88gJbJORWaN7mYwRPM0qOgcj5IY_small.jpg" alt="" onerror="this.src='images/no-poster.jpg';" class="img-responsive">
+                              </div>
+                        <div class="col-md-9">
+                                <p cal>n/A</p>
+                              </div>
+                            </div>
+                            <div class="watch-now row rippler rippler-default">
+                              <button onclick="watchnow('51690','mkv')">watch it now</button>
+                            </div>
+                          </div>
+                                            
+                      <button id="backToInfo-51692" data-episid="51692" class="backToInfo btn btn-info hideOnLoad rippler rippler-default">Back to Info</button>
+                    <div id="epis-51692" class="tab-pane fade in ">
+                      <h2>Marvel - Demolidor [2015] S03 E02</h2>
+                            <h5>Episode 2</h5>
+                            <div class="row">
+                        <div class="col-md-3 seasonIfb3">
+                                                            <img src="http://sv1.cinetv.vip:8880/images/88gJbJORWaN7mYwRPM0qOgcj5IY_small.jpg" alt="" onerror="this.src='images/no-poster.jpg';" class="img-responsive">
+                              </div>
+                        <div class="col-md-9">
+                                <p cal>n/A</p>
+                              </div>
+                            </div>
+                            <div class="watch-now row rippler rippler-default">
+                              <button onclick="watchnow('51692','mkv')">watch it now</button>
+                            </div>
+                          </div>
+                                            
+                      <button id="backToInfo-51694" data-episid="51694" class="backToInfo btn btn-info hideOnLoad rippler rippler-default">Back to Info</button>
+                    <div id="epis-51694" class="tab-pane fade in ">
+                      <h2>Marvel - Demolidor [2015] S03 E03</h2>
+                            <h5>Episode 3</h5>
+                            <div class="row">
+                        <div class="col-md-3 seasonIfb3">
+                                                            <img src="http://sv1.cinetv.vip:8880/images/88gJbJORWaN7mYwRPM0qOgcj5IY_small.jpg" alt="" onerror="this.src='images/no-poster.jpg';" class="img-responsive">
+                              </div>
+                        <div class="col-md-9">
+                                <p cal>n/A</p>
+                              </div>
+                            </div>
+                            <div class="watch-now row rippler rippler-default">
+                              <button onclick="watchnow('51694','mkv')">watch it now</button>
+                            </div>
+                          </div>
+                                            
+                      <button id="backToInfo-51695" data-episid="51695" class="backToInfo btn btn-info hideOnLoad rippler rippler-default">Back to Info</button>
+                    <div id="epis-51695" class="tab-pane fade in ">
+                      <h2>Marvel - Demolidor [2015] S03 E04</h2>
+                            <h5>Episode 4</h5>
+                            <div class="row">
+                        <div class="col-md-3 seasonIfb3">
+                                                            <img src="http://sv1.cinetv.vip:8880/images/88gJbJORWaN7mYwRPM0qOgcj5IY_small.jpg" alt="" onerror="this.src='images/no-poster.jpg';" class="img-responsive">
+                              </div>
+                        <div class="col-md-9">
+                                <p cal>n/A</p>
+                              </div>
+                            </div>
+                            <div class="watch-now row rippler rippler-default">
+                              <button onclick="watchnow('51695','mkv')">watch it now</button>
+                            </div>
+                          </div>
+                                            
+                      <button id="backToInfo-51697" data-episid="51697" class="backToInfo btn btn-info hideOnLoad rippler rippler-default">Back to Info</button>
+                    <div id="epis-51697" class="tab-pane fade in ">
+                      <h2>Marvel - Demolidor [2015] S03 E05</h2>
+                            <h5>Episode 5</h5>
+                            <div class="row">
+                        <div class="col-md-3 seasonIfb3">
+                                                            <img src="http://sv1.cinetv.vip:8880/images/88gJbJORWaN7mYwRPM0qOgcj5IY_small.jpg" alt="" onerror="this.src='images/no-poster.jpg';" class="img-responsive">
+                              </div>
+                        <div class="col-md-9">
+                                <p cal>n/A</p>
+                              </div>
+                            </div>
+                            <div class="watch-now row rippler rippler-default">
+                              <button onclick="watchnow('51697','mkv')">watch it now</button>
+                            </div>
+                          </div>
+                                            
+                      <button id="backToInfo-51699" data-episid="51699" class="backToInfo btn btn-info hideOnLoad rippler rippler-default">Back to Info</button>
+                    <div id="epis-51699" class="tab-pane fade in ">
+                      <h2>Marvel - Demolidor [2015] S03 E06</h2>
+                            <h5>Episode 6</h5>
+                            <div class="row">
+                        <div class="col-md-3 seasonIfb3">
+                                                            <img src="http://sv1.cinetv.vip:8880/images/88gJbJORWaN7mYwRPM0qOgcj5IY_small.jpg" alt="" onerror="this.src='images/no-poster.jpg';" class="img-responsive">
+                              </div>
+                        <div class="col-md-9">
+                                <p cal>n/A</p>
+                              </div>
+                            </div>
+                            <div class="watch-now row rippler rippler-default">
+                              <button onclick="watchnow('51699','mkv')">watch it now</button>
+                            </div>
+                          </div>
+                                            
+                      <button id="backToInfo-51701" data-episid="51701" class="backToInfo btn btn-info hideOnLoad rippler rippler-default">Back to Info</button>
+                    <div id="epis-51701" class="tab-pane fade in ">
+                      <h2>Marvel - Demolidor [2015] S03 E07</h2>
+                            <h5>Episode 7</h5>
+                            <div class="row">
+                        <div class="col-md-3 seasonIfb3">
+                                                            <img src="http://sv1.cinetv.vip:8880/images/88gJbJORWaN7mYwRPM0qOgcj5IY_small.jpg" alt="" onerror="this.src='images/no-poster.jpg';" class="img-responsive">
+                              </div>
+                        <div class="col-md-9">
+                                <p cal>n/A</p>
+                              </div>
+                            </div>
+                            <div class="watch-now row rippler rippler-default">
+                              <button onclick="watchnow('51701','mkv')">watch it now</button>
+                            </div>
+                          </div>
+                                            
+                      <button id="backToInfo-51703" data-episid="51703" class="backToInfo btn btn-info hideOnLoad rippler rippler-default">Back to Info</button>
+                    <div id="epis-51703" class="tab-pane fade in ">
+                      <h2>Marvel - Demolidor [2015] S03 E08</h2>
+                            <h5>Episode 8</h5>
+                            <div class="row">
+                        <div class="col-md-3 seasonIfb3">
+                                                            <img src="http://sv1.cinetv.vip:8880/images/88gJbJORWaN7mYwRPM0qOgcj5IY_small.jpg" alt="" onerror="this.src='images/no-poster.jpg';" class="img-responsive">
+                              </div>
+                        <div class="col-md-9">
+                                <p cal>n/A</p>
+                              </div>
+                            </div>
+                            <div class="watch-now row rippler rippler-default">
+                              <button onclick="watchnow('51703','mkv')">watch it now</button>
+                            </div>
+                          </div>
+                                            
+                      <button id="backToInfo-51705" data-episid="51705" class="backToInfo btn btn-info hideOnLoad rippler rippler-default">Back to Info</button>
+                    <div id="epis-51705" class="tab-pane fade in ">
+                      <h2>Marvel - Demolidor [2015] S03 E09</h2>
+                            <h5>Episode 9</h5>
+                            <div class="row">
+                        <div class="col-md-3 seasonIfb3">
+                                                            <img src="http://sv1.cinetv.vip:8880/images/88gJbJORWaN7mYwRPM0qOgcj5IY_small.jpg" alt="" onerror="this.src='images/no-poster.jpg';" class="img-responsive">
+                              </div>
+                        <div class="col-md-9">
+                                <p cal>n/A</p>
+                              </div>
+                            </div>
+                            <div class="watch-now row rippler rippler-default">
+                              <button onclick="watchnow('51705','mkv')">watch it now</button>
+                            </div>
+                          </div>
+                                            
+                      <button id="backToInfo-51707" data-episid="51707" class="backToInfo btn btn-info hideOnLoad rippler rippler-default">Back to Info</button>
+                    <div id="epis-51707" class="tab-pane fade in ">
+                      <h2>Marvel - Demolidor [2015] S03 E10</h2>
+                            <h5>Episode 10</h5>
+                            <div class="row">
+                        <div class="col-md-3 seasonIfb3">
+                                                            <img src="http://sv1.cinetv.vip:8880/images/88gJbJORWaN7mYwRPM0qOgcj5IY_small.jpg" alt="" onerror="this.src='images/no-poster.jpg';" class="img-responsive">
+                              </div>
+                        <div class="col-md-9">
+                                <p cal>n/A</p>
+                              </div>
+                            </div>
+                            <div class="watch-now row rippler rippler-default">
+                              <button onclick="watchnow('51707','mkv')">watch it now</button>
+                            </div>
+                          </div>
+                                            
+                      <button id="backToInfo-51709" data-episid="51709" class="backToInfo btn btn-info hideOnLoad rippler rippler-default">Back to Info</button>
+                    <div id="epis-51709" class="tab-pane fade in ">
+                      <h2>Marvel - Demolidor [2015] S03 E11</h2>
+                            <h5>Episode 11</h5>
+                            <div class="row">
+                        <div class="col-md-3 seasonIfb3">
+                                                            <img src="http://sv1.cinetv.vip:8880/images/88gJbJORWaN7mYwRPM0qOgcj5IY_small.jpg" alt="" onerror="this.src='images/no-poster.jpg';" class="img-responsive">
+                              </div>
+                        <div class="col-md-9">
+                                <p cal>n/A</p>
+                              </div>
+                            </div>
+                            <div class="watch-now row rippler rippler-default">
+                              <button onclick="watchnow('51709','mkv')">watch it now</button>
+                            </div>
+                          </div>
+                                            
+                      <button id="backToInfo-51711" data-episid="51711" class="backToInfo btn btn-info hideOnLoad rippler rippler-default">Back to Info</button>
+                    <div id="epis-51711" class="tab-pane fade in ">
+                      <h2>Marvel - Demolidor [2015] S03 E12</h2>
+                            <h5>Episode 12</h5>
+                            <div class="row">
+                        <div class="col-md-3 seasonIfb3">
+                                                            <img src="http://sv1.cinetv.vip:8880/images/88gJbJORWaN7mYwRPM0qOgcj5IY_small.jpg" alt="" onerror="this.src='images/no-poster.jpg';" class="img-responsive">
+                              </div>
+                        <div class="col-md-9">
+                                <p cal>n/A</p>
+                              </div>
+                            </div>
+                            <div class="watch-now row rippler rippler-default">
+                              <button onclick="watchnow('51711','mkv')">watch it now</button>
+                            </div>
+                          </div>
+                                            
+                      <button id="backToInfo-51713" data-episid="51713" class="backToInfo btn btn-info hideOnLoad rippler rippler-default">Back to Info</button>
+                    <div id="epis-51713" class="tab-pane fade in ">
+                      <h2>Marvel - Demolidor [2015] S03 E13</h2>
+                            <h5>Episode 13</h5>
+                            <div class="row">
+                        <div class="col-md-3 seasonIfb3">
+                                                            <img src="http://sv1.cinetv.vip:8880/images/88gJbJORWaN7mYwRPM0qOgcj5IY_small.jpg" alt="" onerror="this.src='images/no-poster.jpg';" class="img-responsive">
+                              </div>
+                        <div class="col-md-9">
+                                <p cal>n/A</p>
+                              </div>
+                            </div>
+                            <div class="watch-now row rippler rippler-default">
+                              <button onclick="watchnow('51713','mkv')">watch it now</button>
+                            </div>
+                          </div>
+                                            
+                  </div>
+                  <!--tab-content--> 
+                </div>
+                <div class="clearfix"></div>
+                <h3 class="descHeading">Description</h3>
+                <p class="decription">Adaptação de HQ da Marvel, a história apresenta Matt Murdock (Charlie Cox, de Boardwalk Empire), um advogado que, ao ser exposto a resíduos radioativos, perde a visão. Anos mais tarde, vingando a morte do pai, ele assume a identidade de Demolidor, um herói que tem sentidos super aguçados.</p>
+              </div>
+            </div>
+          </div>
+        </div>  
+         
